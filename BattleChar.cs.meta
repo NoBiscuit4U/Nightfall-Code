@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 08439508a7900b14c9afc3a5c81fdd75
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - theSprite: {instanceID: 0}
+  - deadSprite: {instanceID: 0}
+  - aliveSprite: {instanceID: 0}
+  - animator: {instanceID: 0}
+  - theDamageNumber: {fileID: 5408244878047897888, guid: fc021500c03dfb74abb6ecde9d3b736c,
+      type: 3}
+  - transform: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
